@@ -2,8 +2,8 @@
 // @name         v1.0 YC Contact Sheet Maker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @updateURL    https://githubusercontent.com
-// @downloadURL  https://githubusercontent.com
+// @updateURL    https://raw.githubusercontent.com/yuniqcorn/YC-Contact-sheet-maker/main/YC-CSM.js
+// @downloadURL  https://raw.githubusercontent.com/yuniqcorn/YC-Contact-sheet-maker/main/YC-CSM.js
 // @description  bulk generate contact sheets for videos in file host sites album (currently works only for pixeldrain)
 // @match        *://pixeldrain.com/*
 // @match        *://pixeldrain.net/*
@@ -291,7 +291,7 @@
 
         mainBtn = document.createElement('button');
         mainBtn.id = 'xfpd-v6-btn';
-        mainBtn.innerText = "🎬 Master Extract (B/F/P)";
+        mainBtn.innerText = "🎬Extract";
         mainBtn.style.cssText = "position:fixed; bottom:20px; right:20px; z-index:999999; padding:15px; background:#e50914; color:white; border:none; border-radius:8px; font-weight:bold; font-size:14px; cursor:pointer; box-shadow: 0 5px 15px rgba(0,0,0,0.5);";
         document.body.appendChild(mainBtn);
 

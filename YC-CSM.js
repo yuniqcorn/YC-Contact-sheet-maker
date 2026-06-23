@@ -1,7 +1,11 @@
 // ==UserScript==
-// @name         v6.3 YC Contact Sheet Maker
+// @name         v1.0 YC Contact Sheet Maker
 // @namespace    http://tampermonkey.net/
-// @version      6.3
+// @version      1.0
+// @updateURL    https://githubusercontent.com
+// @downloadURL  https://githubusercontent.com
+// ==/UserScript==
+
 // @description  bulk generate contact sheets for videos in file host sites album (currently works only for pixeldrain)
 // @match        *://pixeldrain.com/*
 // @match        *://pixeldrain.net/*

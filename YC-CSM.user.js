@@ -2,8 +2,8 @@
 // @name         v1.0 YC Contact Sheet Maker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @updateURL    https://raw.githubusercontent.com/yuniqcorn/YC-Contact-sheet-maker/main/YC-CSM.js
-// @downloadURL  https://raw.githubusercontent.com/yuniqcorn/YC-Contact-sheet-maker/main/YC-CSM.js
+// @updateURL    https://raw.githubusercontent.com/yuniqcorn/YC-Contact-sheet-maker/main/YC-CSM.user.js
+// @downloadURL  https://raw.githubusercontent.com/yuniqcorn/YC-Contact-sheet-maker/main/YC-CSM.user.js
 // @description  bulk generate contact sheets for videos in file host sites album (currently works only for pixeldrain)
 // @match        *://pixeldrain.com/*
 // @match        *://pixeldrain.net/*
